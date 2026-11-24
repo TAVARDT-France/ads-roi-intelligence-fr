@@ -1,4 +1,4 @@
-# Intelligence et Modélisation du ROI en Acquisition Payante | TAVARDT France
+# Intelligence et Modélisation du ROI en Acquisition Payante
 
 [![Calculateur ROI](https://img.shields.io/badge/TAVARDT-Calculateur%20ROI-5b3cf5.svg)](https://tools.tavardt.com/fr/calculateur-roi-acquisition-payante/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ Pour des analyses graphiques avancees et la modelisation econometrique de vos ca
 ## Conseil en Ingenierie de Revenus
 
 Pour optimiser vos allocations budgetaires et structurer vos modeles d acquisition B2B en France, contactez les experts de **TAVARDT France**.
+
+***
+
+© 2026 TAVARDT. Tous droits réservés.
