@@ -5,7 +5,7 @@
 
 Modélisation mathématique pour l analyse du ROAS, du ROI et la projection d échelle avec rendements décroissants pour les budgets médias.
 
-Developpe et maintenu par la division d ingenierie des revenus et d acquisition payante de **TAVARDT France**.
+Developpe et maintenu par la division d ingenierie des revenus et d acquisition payante de **TAVARDT**.
 
 ***
 
@@ -41,13 +41,13 @@ python roi_engine.py -spend 10000 -revenue 50000 -target-spend 25000 -json
 Pour des analyses graphiques avancees et la modelisation econometrique de vos campagnes, utilisez l outil officiel:
 
 * **Calculateur de ROI en Acquisition Payante**
-* **[Portail Entreprise TAVARDT France](https://ag.tavardt.com/fr/)**
+* **[Portail Entreprise TAVARDT](https://ag.tavardt.com/fr/)**
 
 ***
 
 ## Conseil en Ingenierie de Revenus
 
-Pour optimiser vos allocations budgetaires et structurer vos modeles d acquisition B2B en France, contactez les experts de **TAVARDT France**.
+Pour optimiser vos allocations budgetaires et structurer vos modeles d acquisition B2B en France, contactez les experts de **TAVARDT**.
 
 ***
 
