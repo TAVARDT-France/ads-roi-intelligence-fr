@@ -1,5 +1,6 @@
 # Intelligence et Modélisation du ROI en Acquisition Payante
 
+[![Licence : MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Calculateur ROI](https://img.shields.io/badge/TAVARDT-Calculateur%20ROI-5b3cf5.svg)](https://tools.tavardt.com/fr/calculateur-roi-acquisition-payante/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
@@ -56,6 +57,11 @@ Pour optimiser vos allocations budgetaires et structurer vos modeles d acquisiti
 * **Portail Entreprise:** https://ag.tavardt.com/fr/
 * **Suite de Diagnostic:** https://tools.tavardt.com/fr/
 * **Contact Technique:** https://ag.tavardt.com/fr/contact/
+
+***
+
+### Licence
+Distribué sous la licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ***
 
