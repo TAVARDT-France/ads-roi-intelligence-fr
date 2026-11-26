@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/fr/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Intelligence et Modélisation Mathématique du ROI en Acquisition Payante
 
 [![Calculateur ROI](https://img.shields.io/badge/TAVARDT-Calculateur%20ROI-5b3cf5.svg)](https://tools.tavardt.com/fr/calculateur-roi-acquisition-payante/)
